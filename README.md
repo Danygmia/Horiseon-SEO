@@ -20,4 +20,4 @@ Github:
 https://github.com/Danygmia/Horiseon-SEO
              
 URL:
-https://danygmia.github.io/horiseon/
+https://danygmia.github.io/Horiseon-SEO/
